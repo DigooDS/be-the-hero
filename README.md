@@ -17,7 +17,7 @@
   
   ---
   
-  ## Como clonar e acessar o projeto:
+  ## 💿 Como clonar e acessar o projeto:
   ```bash
     # clonar projeto
     $ git clone https://github.com/DigooDS/be-the-hero.git
